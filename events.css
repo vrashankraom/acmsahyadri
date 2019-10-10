@@ -1,0 +1,144 @@
+.bgcolor{
+  background-color:#1d1919;
+  position:absolute;
+  top:0px;
+  height:750px;
+  width:1300px;
+}
+.logo{
+  height:200px;
+  width:360px;
+  position:absolute;
+  top:20px;
+  left:20px;
+}
+h2{
+
+  font-family:Comic Sans MS;
+}
+.ann{
+  position:absolute;
+  top:110px;
+  left:300px;
+  font-family:cursive;
+  color:yellow;
+}
+.endu{
+  position: absolute;
+  top:570px;
+  height:170px;
+  width:1270px;
+  background-color: #202060;
+
+}
+.end{
+  position: absolute;
+    top:570px;
+    left:490px;
+  color:#ffc5a1;
+  text-align: center;
+  height:100px;
+  width:300px;
+}
+.endlu{
+  position: absolute;
+    top:685px;
+    left:540px;
+  color:#ffc5a1;
+  text-align: center;
+  height:100px;
+  width:200px;
+}
+.endu1{
+  position: absolute;
+  top:742px;
+  height:50px;
+  width:1270px;
+  background-color: #91b029;
+
+}
+.end1
+{  position: absolute;
+    top:747px;
+    left:535px;
+  color:black;
+  text-align: center;
+  height:100px;
+  width:200px;
+
+}
+@media screen and (max-width:640px)
+{
+
+
+  .bgcolor{
+    background-color:#1d1919;
+    position:absolute;
+    top:0px;
+    height:900px;
+    width:600px;
+  }
+  .logo{
+    height:200px;
+    width:360px;
+    position:absolute;
+    top:2px;
+    left:60px;
+  }
+  h2{
+
+    font-size:27px;
+    font-family:Comic Sans MS;
+  }
+
+.ann{
+  position:absolute;
+  top:100px;
+  left:90px;
+  font-family:cursive;
+  color:yellow;
+}
+.endu{
+  position: absolute;
+  top:500px;
+  height:170px;
+  width:600px;
+  background-color: #202060;
+
+}
+.end{
+  position: absolute;
+    top:500px;
+    left:100px;
+  color:#ffc5a1;
+  height:100px;
+  width:300px;
+}
+.endlu{
+  position: absolute;
+    top:610px;
+    left:150px;
+  color:#ffc5a1;
+  height:100px;
+  width:200px;
+}
+.endu1{
+  position: absolute;
+  top:670px;
+  height:50px;
+  width:1270px;
+  background-color: #91b029;
+
+}
+.end1
+{  position: absolute;
+    top:680px;
+    left:150px;
+  color:black;
+  text-align: center;
+  height:100px;
+  width:200px;
+
+}
+  }
+}
